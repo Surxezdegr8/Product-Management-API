@@ -9,7 +9,7 @@ A simple Django REST API for managing products.
 - View a product by ID
 - Update a product
 - Delete a product
-- Validation (price, quantity > 0, name not empty)
+- Validation (price and quantity > 0, name not empty)
 - Swagger API docs
 
 ## Tech Stack
